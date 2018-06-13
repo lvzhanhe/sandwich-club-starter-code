@@ -37,10 +37,14 @@
             bread\",\"Cheese\",\"Ham\"]}
         </item>
         <item>
-            {\"name\":{\"mainName\":\"Bosna\",\"alsoKnownAs\":[\"Bosner\"]},\"placeOfOrigin\":\"Austria\",\"description\":\"Bosna
+            {\"name\":{\"mainName\":\"Bosna\",\"alsoKnownAs\":[\"Bosner\"]},
+            \"placeOfOrigin\":\"Austria\",
+            \"description\":\"Bosna
             is a spicy Austrian fast food dish, said to have originated in either Salzburg or Linz.
             It is now popular all over western Austria and southern
-            Bavaria.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/c/ca/Bosna_mit_2_Bratw%C3%BCrsten.jpg\",\"ingredients\":[\"White
+            Bavaria.\",
+            \"image\":\"https://upload.wikimedia.org/wikipedia/commons/c/ca/Bosna_mit_2_Bratw%C3%BCrsten.jpg\",
+            \"ingredients\":[\"White
             bread\",\"Bratwurst\",\"Onions\",\"Tomato ketchup\",\"Mustard\",\"Curry powder\"]}
         </item>
         <item>
